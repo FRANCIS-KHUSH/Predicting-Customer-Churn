@@ -21,7 +21,7 @@ Marketing Communication, Churn Label (0 = no churn, 1 = churn)
 ## Tech Stack
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 ## Project Scope
-Data Preprocessing: Cleaning, encoding, scaling.
-EDA: Analyze customer behavior and trends.
-Model Development: Train churn prediction models.
-Model Evaluation: Assess accuracy and other metrics.
+- **Data Preprocessing**: Cleaning, encoding, scaling.
+- **EDA**: Analyze customer behavior and trends.
+- **Model Development**: Train churn prediction models.
+- **Model Evaluation**: Assess accuracy and other metrics.
