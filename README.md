@@ -1,3 +1,4 @@
+# Customer Churn Prediction using Machine Learning
 ## Description
 This project develops a machine learning model to predict customer churn for Reder Telecom, leveraging historical data to identify customers at risk of discontinuing services.
 
