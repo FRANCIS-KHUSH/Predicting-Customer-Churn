@@ -27,4 +27,4 @@ Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - **EDA**: Analyze customer behavior and trends.
 - **Model Development**: Train churn prediction models.
 - **Model Evaluation**: Assess accuracy and other metrics.
-- **Model Deployment**:https://predicting-customer-churn-s7mjbehjyk5ah2zsfovxdy.streamlit.app/
+- **Model Deployment**: https://predicting-customer-churn-nwjmmjsn7mtcqyfbu4namm.streamlit.app/
