@@ -2,9 +2,10 @@ import streamlit as st
 import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 # Load the trained model
-filename = 'churn_prediction_model_selected_features.sav'
+filename = 'Models/churn_prediction_model_selected_features.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 # Streamlit app
